@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-hummer",
+  "version": "1.0.0",
+  "description": "CRA Template react mobx hummer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangliop/cra-template-hummer.git"
+  },
+  "keywords": [
+    "react",
+    "mobx",
+    "hummer",
+    "template"
+  ],
+  "main": "template.json",
+  "files": ["template","template.json"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangliop/cra-template-hummer/issues"
+  },
+  "homepage": "https://github.com/huangliop/cra-template-hummer#readme"
+}
